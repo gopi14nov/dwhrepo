@@ -1,4 +1,4 @@
---weekend 47 query
+--irfan query
 create database stgdb;
 CREATE TABLE stgdb.stg_accounts (
     AccountID VARCHAR(50),
